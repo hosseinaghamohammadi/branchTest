@@ -1,0 +1,4 @@
+#inlclude<stdio.h>
+int main(){
+	int c = 1;
+}
